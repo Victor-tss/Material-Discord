@@ -17,8 +17,8 @@
 
 /* MATERIAL YOU DARK THEME SETTINGS */
 .theme-dark {
-	--saturation-modifier: 0.31;
-	--lightness-modifier: 0.225;
+	--saturation-modifier: 0.25;
+	--lightness-modifier: 0.205;
 	--text-lightness-modifier: 1.0;
 	--ui-darkness-modifier: 1.0;
 }
